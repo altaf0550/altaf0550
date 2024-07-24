@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @altaf0550
 - 👀 I’m interested in Android development with kotlin
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning kotlin Multiplatform
 - 💞️ I’m looking to collaborate on kotlin launguage
 - 📫 How to reach me gmail- uniqueitservices5@gmail.com
 
